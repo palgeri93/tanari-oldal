@@ -11,7 +11,8 @@ function host(r){return new URL(r.url).hostname.replace(/^www\./,'');}
 function match(r){return norm([r.title,r.description,category(r.category).title,r.group||'',r.code||'',r.nkpUrl?'NKP okostankönyv':'',r.episode?`${r.episode}. rész`:'',host(r)].join(' ')).includes(norm(search()));}
 function closeMenu(){document.body.classList.remove('menu-open');$('#backdrop').hidden=true;$('#menu-toggle').setAttribute('aria-expanded','false');}
 $('#menu-toggle').onclick=()=>{if(document.body.classList.contains('focus')&&innerWidth>720){document.body.classList.remove('focus');if($('#focus'))$('#focus').textContent='Nagy nézet';return;}const open=document.body.classList.toggle('menu-open');$('#backdrop').hidden=!open;$('#menu-toggle').setAttribute('aria-expanded',String(open));};$('#backdrop').onclick=closeMenu;
-function navResource(r){return `<a href="${esc(destination(r))}">${r.episode?`${r.episode}. `:''}${esc(r.title)}${r.code?`<small class="nav-code">${esc(r.code)}</small>`:''}</a>`;}
+function navResource(r){const picture=r.cover||r.preview;const thumb=picture?`<img class="nav-thumb" src="${esc(picture)}" alt="" loading="lazy" width="44" height="36">`:`<span class="nav-thumb nav-symbol" aria-hidden="true">${category(r.category).icon}</span>`;return `<a class="nav-resource" href="${esc(destination(r))}">${thumb}<span>${r.episode?`${r.episode}. `:''}${esc(r.title)}${r.code?`<small class="nav-code">${esc(r.code)}</small>`:''}</span></a>`;}
+
 function subjectNavigation(c,rows){
  if(c.id==='tortenelem'){
   const books=rows.filter(r=>r.code&&r.kind!=='Atlasz'),videos=rows.filter(r=>r.series),other=rows.filter(r=>!r.code&&!r.series);
@@ -62,4 +63,4 @@ window.addEventListener('hashchange',()=>{closeMenu();document.body.classList.re
 $('#search').addEventListener('input',()=>{facet='all';document.body.classList.remove('focus');render();});
 document.addEventListener('keydown',e=>{if((e.ctrlKey||e.metaKey)&&e.key.toLowerCase()==='k'){e.preventDefault();$('#search').focus();}if(e.key==='Escape'){closeMenu();if(search()){$('#search').value='';render();}}});
 document.addEventListener('click',e=>{const a=e.target.closest('a[href^="#"]');if(a&&search()){$('#search').value='';if(a.hash===location.hash||a.getAttribute('href')==='#'&&!location.hash){render();closeMenu();}}});
-fetch('resources.json?v=kepek-20261101',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('Lista nem elérhető');return r.json();}).then(d=>{data=d;render();}).catch(()=>{$('#content').innerHTML='<div class="empty">A tananyaglista most nem tölthető be. Frissítsd az oldalt, vagy nyisd meg az <a href="https://palfigergo93.symbaloo.com/">eredeti gyűjteményt</a>.</div>';});
+fetch('resources.json?v=menu-kepek-20261101',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('Lista nem elérhető');return r.json();}).then(d=>{data=d;render();}).catch(()=>{$('#content').innerHTML='<div class="empty">A tananyaglista most nem tölthető be. Frissítsd az oldalt, vagy nyisd meg az <a href="https://palfigergo93.symbaloo.com/">eredeti gyűjteményt</a>.</div>';});
