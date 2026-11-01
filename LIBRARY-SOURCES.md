@@ -83,3 +83,6 @@ A történelemoldalon összecsukható könyvcsoportok vannak, évfolyamonként e
 
 ## Zanza TV (2026-11-01)
 11 témakör közvetlen gyűjtőoldala, összesen 61 tanegységgel, a Zanza TV nyilvános történelemkínálatából. A hivatkozások témaköröket nyitnak meg, nem helyben tárolt videókat. Középiskolai tananyagként jelölve, általános iskolában tanári válogatással ajánlva. Külön lenyitható csoport, menü és #zanza útvonal. Történelmi játékfilmeket nem adtunk hozzá. Forrás: https://zanza.tv/tortenelem .
+
+## Zanza TV – egyedi beágyazások (2026-11-01)
+A témakörhivatkozások helyett 60 egyedi tanegység került a gyűjteménybe, a 11 kiválasztott témakör tényleges listájából. Az egyes tanegységek saját hivatalos oldalán található YouTube-beágyazási azonosítót használjuk. Az eredeti témakörök alapján jelzett 61-es szám helyett a ténylegesen megtalált 60 videó szerepel. A videók nem kerülnek letöltésre vagy újrafeltöltésre. A lejátszó csak kattintásra töltődik, csoportbezáráskor leáll. Minden kártyán megmarad az eredeti tanegység linkje a feladatokhoz.
