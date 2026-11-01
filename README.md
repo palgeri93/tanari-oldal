@@ -40,3 +40,7 @@ A JAKUCSVERSENY és a külön „Magyarország története” csoportokból az i
 Nincs buildlépés vagy csomagfüggőség. Helyi előnézet a szülőmappából: `python -m http.server 8767 --directory tanari-oldal`.
 
 A `main` ágra feltöltött módosításokat a GitHub Actions Pages munkafolyamat publikálja. A Google Fonts betűkészletei hálózat nélkül rendszerbetűvel helyettesítődnek. Nem használunk analitikai kódot vagy helyi adattárolást; külső alkalmazás betöltésekor annak saját szabályai érvényesek.
+
+## Modulok előnézetei
+
+A modulok kártyáin 10 ellenőrzött, nyilvános nyitóoldalról készült képernyőkép szerepel (2026-11-01). A többi kártyán tantárgyi illusztráció jelenik meg, ha az oldal nem töltött be, a régi Flash-modul betöltőképernyőn maradt vagy a cél személyes dokumentum lehet. A tankönyvborítók és a videók külön előnézetei változatlanul elérhetők. Az előnézetek nem frissülnek automatikusan; elérési útjuk és forrásuk a resources.json fájlban található. A theme.css tartalmazza az olvashatósági és színmódosításokat.
