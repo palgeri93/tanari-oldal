@@ -80,3 +80,6 @@ A sorozat 46 eleme sorszám szerint jelenik meg, a cím a lejátszó alatt olvas
 2026. november 1.: az 5–7. osztály TB tankönyve megmaradt, kizárólag a 8. osztály tankönyvét cseréltük OH-TOR08TA változatra. A PDF-et és borítót a https://www.tankonyvkatalogus.hu/tankonyv/OH-TOR08TA adatlapról vettük át; a PDF fejlécét ellenőriztük. A hozzá tartozó NKP-linket is TA-ra cseréltük: https://www.nkp.hu/tankonyv/tortenelem_08_nat2020 . A munkafüzet változatlanul OH-TOR08MAB.
 
 A történelemoldalon összecsukható könyvcsoportok vannak, évfolyamonként egy tankönyv–munkafüzet sorral. Az atlasz a könyvek után következik. A videók külön összecsukható csoportban, tízrészes részcsoportokban találhatók. Az oldalsó menü könyv- és videólistái szintén összecsukhatók. A digitális kultúra könyvlistája is lenyitható.
+
+## Zanza TV (2026-11-01)
+11 témakör közvetlen gyűjtőoldala, összesen 61 tanegységgel, a Zanza TV nyilvános történelemkínálatából. A hivatkozások témaköröket nyitnak meg, nem helyben tárolt videókat. Középiskolai tananyagként jelölve, általános iskolában tanári válogatással ajánlva. Külön lenyitható csoport, menü és #zanza útvonal. Történelmi játékfilmeket nem adtunk hozzá. Forrás: https://zanza.tv/tortenelem .
