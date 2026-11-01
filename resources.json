@@ -698,7 +698,9 @@
       "embed": false,
       "kind": "Tankönyv",
       "source": "Oktatási Hivatal – Tankönyvkatalógus",
-      "checkedAt": "2026-11-01"
+      "checkedAt": "2026-11-01",
+      "cover": "assets/covers/OH-TOR05TB.jpg",
+      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-TOR05TB.jpg"
     },
     {
       "id": "oh-tor06tb",
@@ -713,7 +715,9 @@
       "embed": false,
       "kind": "Tankönyv",
       "source": "Oktatási Hivatal – Tankönyvkatalógus",
-      "checkedAt": "2026-11-01"
+      "checkedAt": "2026-11-01",
+      "cover": "assets/covers/OH-TOR06TB.jpg",
+      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-TOR06TB.jpg"
     },
     {
       "id": "oh-tor07tb",
@@ -728,7 +732,9 @@
       "embed": false,
       "kind": "Tankönyv",
       "source": "Oktatási Hivatal – Tankönyvkatalógus",
-      "checkedAt": "2026-11-01"
+      "checkedAt": "2026-11-01",
+      "cover": "assets/covers/OH-TOR07TB.jpg",
+      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-TOR07TB.jpg"
     },
     {
       "id": "oh-tor08tb",
@@ -743,7 +749,9 @@
       "embed": false,
       "kind": "Tankönyv",
       "source": "Oktatási Hivatal – Tankönyvkatalógus",
-      "checkedAt": "2026-11-01"
+      "checkedAt": "2026-11-01",
+      "cover": "assets/covers/OH-TOR08TB.jpg",
+      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-TOR08TB.jpg"
     },
     {
       "id": "oh-tor05mab",
@@ -758,7 +766,9 @@
       "embed": false,
       "kind": "Munkafüzet",
       "source": "Oktatási Hivatal – Tankönyvkatalógus",
-      "checkedAt": "2026-11-01"
+      "checkedAt": "2026-11-01",
+      "cover": "assets/covers/OH-TOR05MAB.jpg",
+      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-TOR05MAB.jpg"
     },
     {
       "id": "oh-tor06mab",
@@ -773,7 +783,9 @@
       "embed": false,
       "kind": "Munkafüzet",
       "source": "Oktatási Hivatal – Tankönyvkatalógus",
-      "checkedAt": "2026-11-01"
+      "checkedAt": "2026-11-01",
+      "cover": "assets/covers/OH-TOR06MAB.jpg",
+      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-TOR06MAB.jpg"
     },
     {
       "id": "oh-tor07mab",
@@ -788,7 +800,9 @@
       "embed": false,
       "kind": "Munkafüzet",
       "source": "Oktatási Hivatal – Tankönyvkatalógus",
-      "checkedAt": "2026-11-01"
+      "checkedAt": "2026-11-01",
+      "cover": "assets/covers/OH-TOR07MAB.jpg",
+      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-TOR07MAB.jpg"
     },
     {
       "id": "oh-tor08mab",
@@ -803,7 +817,9 @@
       "embed": false,
       "kind": "Munkafüzet",
       "source": "Oktatási Hivatal – Tankönyvkatalógus",
-      "checkedAt": "2026-11-01"
+      "checkedAt": "2026-11-01",
+      "cover": "assets/covers/OH-TOR08MAB.jpg",
+      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-TOR08MAB.jpg"
     },
     {
       "id": "oh-dig03ta",
@@ -818,7 +834,9 @@
       "embed": false,
       "kind": "Tankönyv",
       "source": "Oktatási Hivatal – Tankönyvkatalógus",
-      "checkedAt": "2026-11-01"
+      "checkedAt": "2026-11-01",
+      "cover": "assets/covers/OH-DIG03TA.jpg",
+      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-DIG03TA.jpg"
     },
     {
       "id": "oh-dig04ta",
@@ -833,7 +851,9 @@
       "embed": false,
       "kind": "Tankönyv",
       "source": "Oktatási Hivatal – Tankönyvkatalógus",
-      "checkedAt": "2026-11-01"
+      "checkedAt": "2026-11-01",
+      "cover": "assets/covers/OH-DIG04TA.jpg",
+      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-DIG04TA.jpg"
     },
     {
       "id": "oh-dig05ta",
@@ -848,7 +868,9 @@
       "embed": false,
       "kind": "Tankönyv",
       "source": "Oktatási Hivatal – Tankönyvkatalógus",
-      "checkedAt": "2026-11-01"
+      "checkedAt": "2026-11-01",
+      "cover": "assets/covers/OH-DIG05TA.jpg",
+      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-DIG05TA.jpg"
     },
     {
       "id": "oh-dig06ta",
@@ -863,7 +885,9 @@
       "embed": false,
       "kind": "Tankönyv",
       "source": "Oktatási Hivatal – Tankönyvkatalógus",
-      "checkedAt": "2026-11-01"
+      "checkedAt": "2026-11-01",
+      "cover": "assets/covers/OH-DIG06TA.jpg",
+      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-DIG06TA.jpg"
     },
     {
       "id": "oh-dig07ta",
@@ -878,7 +902,9 @@
       "embed": false,
       "kind": "Tankönyv",
       "source": "Oktatási Hivatal – Tankönyvkatalógus",
-      "checkedAt": "2026-11-01"
+      "checkedAt": "2026-11-01",
+      "cover": "assets/covers/OH-DIG07TA.jpg",
+      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-DIG07TA.jpg"
     },
     {
       "id": "oh-dig08ta",
@@ -893,7 +919,9 @@
       "embed": false,
       "kind": "Tankönyv",
       "source": "Oktatási Hivatal – Tankönyvkatalógus",
-      "checkedAt": "2026-11-01"
+      "checkedAt": "2026-11-01",
+      "cover": "assets/covers/OH-DIG08TA.jpg",
+      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-DIG08TA.jpg"
     },
     {
       "id": "magyarorszag-tortenete-01",
