@@ -700,7 +700,9 @@
       "source": "Oktatási Hivatal – Tankönyvkatalógus",
       "checkedAt": "2026-11-01",
       "cover": "assets/covers/OH-TOR05TB.jpg",
-      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-TOR05TB.jpg"
+      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-TOR05TB.jpg",
+      "nkpUrl": "https://www.nkp.hu/tankonyv/tortenelem_5_nat2020_b/",
+      "nkpCheckedAt": "2026-11-01"
     },
     {
       "id": "oh-tor06tb",
@@ -717,7 +719,9 @@
       "source": "Oktatási Hivatal – Tankönyvkatalógus",
       "checkedAt": "2026-11-01",
       "cover": "assets/covers/OH-TOR06TB.jpg",
-      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-TOR06TB.jpg"
+      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-TOR06TB.jpg",
+      "nkpUrl": "https://www.nkp.hu/tankonyv/tortenelem_6_nat2020_b/",
+      "nkpCheckedAt": "2026-11-01"
     },
     {
       "id": "oh-tor07tb",
@@ -734,7 +738,9 @@
       "source": "Oktatási Hivatal – Tankönyvkatalógus",
       "checkedAt": "2026-11-01",
       "cover": "assets/covers/OH-TOR07TB.jpg",
-      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-TOR07TB.jpg"
+      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-TOR07TB.jpg",
+      "nkpUrl": "https://www.nkp.hu/tankonyv/tortenelem_7_nat2020_b/",
+      "nkpCheckedAt": "2026-11-01"
     },
     {
       "id": "oh-tor08tb",
@@ -751,7 +757,9 @@
       "source": "Oktatási Hivatal – Tankönyvkatalógus",
       "checkedAt": "2026-11-01",
       "cover": "assets/covers/OH-TOR08TB.jpg",
-      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-TOR08TB.jpg"
+      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-TOR08TB.jpg",
+      "nkpUrl": "https://www.nkp.hu/tankonyv/tortenelem_8_nat2020_b/",
+      "nkpCheckedAt": "2026-11-01"
     },
     {
       "id": "oh-tor05mab",
@@ -836,7 +844,10 @@
       "source": "Oktatási Hivatal – Tankönyvkatalógus",
       "checkedAt": "2026-11-01",
       "cover": "assets/covers/OH-DIG03TA.jpg",
-      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-DIG03TA.jpg"
+      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-DIG03TA.jpg",
+      "nkpUrl": "https://www.nkp.hu/tankonyv/digitalis-kultura-3/",
+      "nkpCheckedAt": "2026-11-01",
+      "nkpNote": "Az NKP évfolyamos tananyaga eltérhet a PDF kiadásától."
     },
     {
       "id": "oh-dig04ta",
@@ -853,7 +864,10 @@
       "source": "Oktatási Hivatal – Tankönyvkatalógus",
       "checkedAt": "2026-11-01",
       "cover": "assets/covers/OH-DIG04TA.jpg",
-      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-DIG04TA.jpg"
+      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-DIG04TA.jpg",
+      "nkpUrl": "https://www.nkp.hu/tankonyv/digitalis-kultura-4/",
+      "nkpCheckedAt": "2026-11-01",
+      "nkpNote": "Az NKP évfolyamos tananyaga eltérhet a PDF kiadásától."
     },
     {
       "id": "oh-dig05ta",
@@ -870,7 +884,9 @@
       "source": "Oktatási Hivatal – Tankönyvkatalógus",
       "checkedAt": "2026-11-01",
       "cover": "assets/covers/OH-DIG05TA.jpg",
-      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-DIG05TA.jpg"
+      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-DIG05TA.jpg",
+      "nkpUrl": "https://www.nkp.hu/tankonyv/digitalis_kultura_5_nat2020/",
+      "nkpCheckedAt": "2026-11-01"
     },
     {
       "id": "oh-dig06ta",
@@ -887,7 +903,9 @@
       "source": "Oktatási Hivatal – Tankönyvkatalógus",
       "checkedAt": "2026-11-01",
       "cover": "assets/covers/OH-DIG06TA.jpg",
-      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-DIG06TA.jpg"
+      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-DIG06TA.jpg",
+      "nkpUrl": "https://www.nkp.hu/tankonyv/digitalis_kultura_6_nat2020/",
+      "nkpCheckedAt": "2026-11-01"
     },
     {
       "id": "oh-dig07ta",
@@ -904,7 +922,9 @@
       "source": "Oktatási Hivatal – Tankönyvkatalógus",
       "checkedAt": "2026-11-01",
       "cover": "assets/covers/OH-DIG07TA.jpg",
-      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-DIG07TA.jpg"
+      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-DIG07TA.jpg",
+      "nkpUrl": "https://www.nkp.hu/tankonyv/digitalis-kultura-7-nat2020/",
+      "nkpCheckedAt": "2026-11-01"
     },
     {
       "id": "oh-dig08ta",
@@ -921,7 +941,9 @@
       "source": "Oktatási Hivatal – Tankönyvkatalógus",
       "checkedAt": "2026-11-01",
       "cover": "assets/covers/OH-DIG08TA.jpg",
-      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-DIG08TA.jpg"
+      "coverSource": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-DIG08TA.jpg",
+      "nkpUrl": "https://www.nkp.hu/tankonyv/digitalis-kultura-8-nat2020/",
+      "nkpCheckedAt": "2026-11-01"
     },
     {
       "id": "magyarorszag-tortenete-01",

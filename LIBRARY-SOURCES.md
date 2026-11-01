@@ -48,4 +48,21 @@ A korábbi két Symbaloo-videó helytelenül megadott címét a tényleges soroz
 
 ## Működés
 
+### NKP-hivatkozások (2026. november 1.)
+
+A hat digitális kultúra tankönyv és a négy történelem TB tankönyv külön NKP-gombot kapott. A PDF és a katalógusadatlap továbbra is elérhető. Az NKP-t közvetlen linkkel nyitjuk meg, nem másoljuk és nem ágyazzuk be az okostankönyvi tartalmat.
+
+- Digitális kultúra 3.: https://www.nkp.hu/tankonyv/digitalis-kultura-3/
+- Digitális kultúra 4.: https://www.nkp.hu/tankonyv/digitalis-kultura-4/
+- Digitális kultúra 5. (A): https://www.nkp.hu/tankonyv/digitalis_kultura_5_nat2020/
+- Digitális kultúra 6. (A): https://www.nkp.hu/tankonyv/digitalis_kultura_6_nat2020/
+- Digitális kultúra 7. (A): https://www.nkp.hu/tankonyv/digitalis-kultura-7-nat2020/
+- Digitális kultúra 8. (A): https://www.nkp.hu/tankonyv/digitalis-kultura-8-nat2020/
+- Történelem 5. (B): https://www.nkp.hu/tankonyv/tortenelem_5_nat2020_b/
+- Történelem 6. (B): https://www.nkp.hu/tankonyv/tortenelem_6_nat2020_b/
+- Történelem 7. (B): https://www.nkp.hu/tankonyv/tortenelem_7_nat2020_b/
+- Történelem 8. (B): https://www.nkp.hu/tankonyv/tortenelem_8_nat2020_b/
+
+Az 5–8. osztályos digitális kultúra, valamint az 5–7. osztályos történelem linkjeit a megfelelő kódú Tankönyvkatalógus-adatlap adta meg. A 8. osztályos történelem B címét az NKP saját évfolyamos linklistájából olvastuk ki. A 3–4. osztályos digitális tananyag létezését és címét az NKP-n ellenőriztük; az OH-DIG03TA/OH-DIG04TA PDF-ekkel való kiadásazonosság nem igazolt, ezért az eltérés lehetőségét a kártyákon jelezzük.
+
 A sorozat 46 eleme sorszám szerint jelenik meg, a cím a lejátszó alatt olvasható. A videólejátszó csak a képre kattintáskor töltődik be, és a galériában egyszerre egy aktív iframe marad. A történelemoldalon külön szűrhető a TB tankönyv, a munkafüzet, a sorozat és a gyakorlók csoportja. A kereső a tankönyvi kódokra is keres.
