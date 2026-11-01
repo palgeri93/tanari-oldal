@@ -4,12 +4,12 @@ Ellenőrzés: 2026. november 1. A kért kör kizárólag általános iskola.
 
 ## Történelem, 5–8. évfolyam
 
-| Évfolyam | TB tankönyv | Kapcsolódó munkafüzet |
+| Évfolyam | Tankönyv | Kapcsolódó munkafüzet |
 |---|---|---|
 | 5. | OH-TOR05TB | OH-TOR05MAB |
 | 6. | OH-TOR06TB | OH-TOR06MAB |
 | 7. | OH-TOR07TB | OH-TOR07MAB |
-| 8. | OH-TOR08TB | OH-TOR08MAB |
+| 8. | OH-TOR08TA (kérésre cserélve) | OH-TOR08MAB |
 
 ## Történelmi atlasz, 5–8. évfolyam
 
@@ -74,3 +74,9 @@ A hat digitális kultúra tankönyv és a négy történelem TB tankönyv külö
 Az 5–8. osztályos digitális kultúra, valamint az 5–7. osztályos történelem linkjeit a megfelelő kódú Tankönyvkatalógus-adatlap adta meg. A 8. osztályos történelem B címét az NKP saját évfolyamos linklistájából olvastuk ki. A 3–4. osztályos digitális tananyag létezését és címét az NKP-n ellenőriztük; az OH-DIG03TA/OH-DIG04TA PDF-ekkel való kiadásazonosság nem igazolt, ezért az eltérés lehetőségét a kártyákon jelezzük.
 
 A sorozat 46 eleme sorszám szerint jelenik meg, a cím a lejátszó alatt olvasható. A videólejátszó csak a képre kattintáskor töltődik be, és a galériában egyszerre egy aktív iframe marad. A történelemoldalon külön szűrhető a TB tankönyv, a munkafüzet, a sorozat és a gyakorlók csoportja. A kereső a tankönyvi kódokra is keres.
+
+## Átrendezés és 8. osztályos TA csere
+
+2026. november 1.: az 5–7. osztály TB tankönyve megmaradt, kizárólag a 8. osztály tankönyvét cseréltük OH-TOR08TA változatra. A PDF-et és borítót a https://www.tankonyvkatalogus.hu/tankonyv/OH-TOR08TA adatlapról vettük át; a PDF fejlécét ellenőriztük. A hozzá tartozó NKP-linket is TA-ra cseréltük: https://www.nkp.hu/tankonyv/tortenelem_08_nat2020 . A munkafüzet változatlanul OH-TOR08MAB.
+
+A történelemoldalon összecsukható könyvcsoportok vannak, évfolyamonként egy tankönyv–munkafüzet sorral. Az atlasz a könyvek után következik. A videók külön összecsukható csoportban, tízrészes részcsoportokban találhatók. Az oldalsó menü könyv- és videólistái szintén összecsukhatók. A digitális kultúra könyvlistája is lenyitható.
