@@ -1589,6 +1589,23 @@
       "kind": "Videó",
       "source": "YouTube – Márta Farkas",
       "checkedAt": "2026-11-01"
+    },
+    {
+      "id": "oh-tor58atl",
+      "title": "Képes történelmi atlasz általános iskolásoknak",
+      "category": "tortenelem",
+      "description": "Történelmi atlasz az 5–8. évfolyam számára, az Oktatási Hivatal kiadványa.",
+      "url": "https://www.tankonyvkatalogus.hu/storage/pdf/OH-TOR58ATL__teljes.pdf",
+      "catalogueUrl": "https://www.tankonyvkatalogus.hu/tankonyv/OH-TOR58ATL",
+      "code": "OH-TOR58ATL",
+      "grade": 5,
+      "gradeLabel": "5–8. évfolyam",
+      "embed": false,
+      "kind": "Atlasz",
+      "source": "Oktatási Hivatal – Tankönyvkatalógus",
+      "checkedAt": "2026-11-01",
+      "cover": "assets/covers/OH-TOR58ATL.jpg",
+      "coverSource": "https://www.tankonyvkatalogus.hu/storage/cover-images/01J6VQGCKBFQ8TFDRMFC1XQ6RT.jpg"
     }
   ],
   "updatedAt": "2026-11-01",

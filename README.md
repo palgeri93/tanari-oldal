@@ -2,7 +2,7 @@
 
 Élő oldal: https://palgeri93.github.io/tanari-oldal/
 
-Tantárgyanként és tanári feladat szerint rendezett, kereshető honlap. A Symbaloo-gyűjteményt földrajzi modellekkel, a Magyarország története 46 részének jegyzékével és 14 általános iskolai könyvvel bővítettük: 111 tétel, 8 csoport. A sorozatból 45 YouTube-videó beágyazható; a 45. rész a hivatalos műsoroldalra mutat. A könyvek kódjait és a videók forrásait a [LIBRARY-SOURCES.md](LIBRARY-SOURCES.md) dokumentálja.
+Tantárgyanként és tanári feladat szerint rendezett, kereshető honlap. A Symbaloo-gyűjteményt földrajzi modellekkel, a Magyarország története 46 részének jegyzékével és 14 általános iskolai könyvvel és egy történelmi atlasszal bővítettük: 112 tétel, 8 csoport. A sorozatból 45 YouTube-videó beágyazható; a 45. rész a hivatalos műsoroldalra mutat. A könyvek kódjait és a videók forrásait a [LIBRARY-SOURCES.md](LIBRARY-SOURCES.md) dokumentálja.
 
 ## Bővítés
 

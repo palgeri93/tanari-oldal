@@ -11,6 +11,14 @@ Ellenőrzés: 2026. november 1. A kért kör kizárólag általános iskola.
 | 7. | OH-TOR07TB | OH-TOR07MAB |
 | 8. | OH-TOR08TB | OH-TOR08MAB |
 
+## Történelmi atlasz, 5–8. évfolyam
+
+Képes történelmi atlasz általános iskolásoknak – **OH-TOR58ATL**.
+
+Hivatalos adatlap: https://www.tankonyvkatalogus.hu/tankonyv/OH-TOR58ATL
+
+Az adatlap tényleges PDF- és borítóhivatkozását vettük át. A PDF fejlécét bájttartományos lekéréssel ellenőriztük (206, `%PDF`). A borító az adatlapon szereplő `storage/cover-images/01J6VQGCKBFQ8TFDRMFC1XQ6RT.jpg` fájl. A kártyán Atlasz típus és 5–8. évfolyam szerepel; külön Atlasz szűrővel is megtalálható a történelemoldalon.
+
 ## Digitális kultúra, 3–8. évfolyam
 
 OH-DIG03TA, OH-DIG04TA, OH-DIG05TA, OH-DIG06TA, OH-DIG07TA, OH-DIG08TA.
