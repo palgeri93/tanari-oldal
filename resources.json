@@ -33,7 +33,7 @@
       "icon": "⌘",
       "color": "#365d94",
       "tint": "#eaf1fa",
-      "description": "Digitális kultúra tankönyvek a 3–8. évfolyam számára, hivatalos tankönyvi kóddal és PDF-hivatkozással."
+      "description": "Digitális kultúra tankönyvek a 3–8. évfolyam számára, NKP-tananyagok és Diáklevelező a feladatok elküldéséhez."
     },
     {
       "id": "tanulas",
@@ -2596,6 +2596,18 @@
       "zanzaTopicTitle": "A Kádár-korszak",
       "videoId": "W69eJTBm_4s",
       "preview": "https://i.ytimg.com/vi/W69eJTBm_4s/hqdefault.jpg"
+    },
+    {
+      "id": "diak-levelezo",
+      "title": "Diáklevelező",
+      "category": "digitalis-kultura",
+      "description": "Üzenet és csatolt feladat küldése Pálfi Gergőnek. Belépés a Térképműhely topográfiás tanulói fiókjával, rögzített feladónévvel és küldés előtti ellenőrzéssel.",
+      "url": "https://palgeri93.alwaysdata.net/topografia/levelezo.php",
+      "embed": false,
+      "source": "Saját alkalmazás",
+      "group": "Kommunikáció és feladatküldés",
+      "kind": "E-mail-küldés",
+      "featured": true
     }
   ],
   "updatedAt": "2026-11-01",
