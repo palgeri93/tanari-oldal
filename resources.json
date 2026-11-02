@@ -2601,7 +2601,7 @@
       "id": "diak-levelezo",
       "title": "Diáklevelező",
       "category": "digitalis-kultura",
-      "description": "Üzenet és csatolt feladat küldése Pálfi Gergőnek. Belépés a Térképműhely topográfiás tanulói fiókjával, rögzített feladónévvel és küldés előtti ellenőrzéssel.",
+      "description": "Üzenet és csatolt feladat küldése Pálfi Gergőnek, küldés előtti ellenőrzéssel. A tanár állítja be, szükséges-e topográfiás tanulói belépés.",
       "url": "https://palgeri93.alwaysdata.net/topografia/levelezo.php",
       "embed": false,
       "source": "Saját alkalmazás",
