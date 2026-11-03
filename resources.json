@@ -20,6 +20,14 @@
       "description": "Évszámok, az Árpád-kor, történelmi tanulókártyák és videók."
     },
     {
+      "id": "chatbotok",
+      "title": "Chatbotok, tanulótársak",
+      "icon": "🤖",
+      "color": "#286b70",
+      "tint": "#e6f4f3",
+      "description": "Interaktív tanulótársak és chatbotok az önálló gyakorláshoz. A 7. évfolyamos Redmenta-tanulótárs innen érhető el."
+    },
+    {
       "id": "angol",
       "title": "Angol",
       "icon": "Aa",
@@ -2608,6 +2616,21 @@
       "group": "Kommunikáció és feladatküldés",
       "kind": "E-mail-küldés",
       "featured": true
+    },
+    {
+      "id": "redmenta-tanulotars-7",
+      "title": "Redmenta tanulótárs · 7. évfolyam",
+      "category": "chatbotok",
+      "grade": 7,
+      "description": "Nyisd meg a tanulótársat a Redmentán, és kezdd el a beszélgetős gyakorlást!",
+      "url": "https://app.redmenta.com/hu/chatbotSolve?ks_id=961114263",
+      "embed": false,
+      "source": "Redmenta",
+      "group": "7. évfolyam",
+      "kind": "Chatbot",
+      "featured": true,
+      "preview": "assets/chatbot-tanulotars.svg",
+      "previewAlt": "Mosolygó chatbot illusztrációja"
     }
   ],
   "updatedAt": "2026-11-01",
