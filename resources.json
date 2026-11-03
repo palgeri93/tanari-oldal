@@ -460,6 +460,17 @@
       "kind": "Interaktív tananyag"
     },
     {
+      "id": "klimadiagramok",
+      "title": "Klímadiagramok",
+      "category": "foldrajz",
+      "description": "Éghajlati diagramok megtekintése és összehasonlítása a világ különböző területein.",
+      "url": "https://climatecharts.net/",
+      "embed": true,
+      "source": "ClimateCharts",
+      "kind": "Interaktív tananyag",
+      "featured": false
+    },
+    {
       "id": "link-29",
       "title": "Angol szógyakorló",
       "category": "angol",
