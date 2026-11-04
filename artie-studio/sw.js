@@ -1,0 +1,7 @@
+const VERSION='artie-web-v1.0.0-build2';
+const FILES=['./','./index.html','./style.css','./app.js','./core.js','./glyphs.js','./robot.js','./manifest.webmanifest','./artie.png'];
+const URLS=FILES.map(f=>new URL(f,self.registration.scope).href);
+self.addEventListener('install',event=>event.waitUntil((async()=>{const cache=await caches.open(VERSION);await cache.addAll(URLS);})()));
+self.addEventListener('activate',event=>event.waitUntil((async()=>{for(const key of await caches.keys())if(key.startsWith('artie-web-')&&key!==VERSION)await caches.delete(key);await self.clients.claim();})()));
+self.addEventListener('message',event=>{if(event.data?.type==='CHECK_OFFLINE')event.waitUntil((async()=>{const cache=await caches.open(VERSION);let ready=true;for(const url of URLS){const r=await cache.match(url);if(!r?.ok){ready=false;break;}}event.ports[0]?.postMessage({ready,version:VERSION});})());});
+self.addEventListener('fetch',event=>{if(event.request.method!=='GET')return;const url=new URL(event.request.url);if(url.origin!==self.location.origin)return;const clean=url.origin+url.pathname;if(event.request.mode==='navigate'&&url.href.startsWith(self.registration.scope)){event.respondWith((async()=>{const cache=await caches.open(VERSION);return await cache.match(new URL('./index.html',self.registration.scope).href)||fetch(event.request);})());return;}if(URLS.includes(clean))event.respondWith((async()=>{const cache=await caches.open(VERSION);return await cache.match(clean)||fetch(event.request);})());});

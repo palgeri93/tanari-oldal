@@ -41,7 +41,7 @@
       "icon": "⌘",
       "color": "#365d94",
       "tint": "#eaf1fa",
-      "description": "Digitális kultúra tankönyvek a 3–8. évfolyam számára, NKP-tananyagok és Diáklevelező a feladatok elküldéséhez."
+      "description": "Artie online rajzoló- és programozóműhely, digitális kultúra tankönyvek a 3–8. évfolyam számára, NKP-tananyagok és Diáklevelező."
     },
     {
       "id": "tanulas",
@@ -77,6 +77,19 @@
     }
   ],
   "resources": [
+    {
+      "id": "artie-studio-online",
+      "title": "Artie Studio – online műhely",
+      "category": "digitalis-kultura",
+      "description": "Rajzolj és programozz közvetlenül a böngészőben! Betűk, saját rajzok, alakzatok, távirányítás és szimulátor. Robot nélkül is használható; nem kell telepíteni.",
+      "url": "https://palgeri93.github.io/tanari-oldal/artie-studio/",
+      "embed": true,
+      "source": "Saját alkalmazás",
+      "group": "Robotika és programozás",
+      "kind": "Online alkalmazás",
+      "preview": "assets/artie-studio-4-preview.png",
+      "previewAlt": "Az Artie Studio rajzoló- és programozóműhelye"
+    },
     {
       "id": "artie-studio-4",
       "title": "Artie Studio 4 – letöltés",
