@@ -78,6 +78,21 @@
   ],
   "resources": [
     {
+      "id": "artie-studio-4",
+      "title": "Artie Studio 4 – letöltés",
+      "category": "digitalis-kultura",
+      "description": "Windowsos rajzoló- és programozóműhely Artie robothoz, robot nélkül is használható gyakorlómóddal. Töltsd le a ZIP-et, csomagold ki, majd indítsd az ArtieStudio.exe fájlt. Windows és .NET Framework 4.6 vagy újabb szükséges.",
+      "url": "https://palgeri93.github.io/tanari-oldal/assets/downloads/ArtieStudio-4-diakoknak.zip",
+      "embed": false,
+      "download": true,
+      "downloadSize": "176 KB",
+      "source": "Saját alkalmazás",
+      "group": "Robotika és programozás",
+      "kind": "Program letöltése",
+      "preview": "assets/artie-studio-4-preview.png",
+      "previewAlt": "Az Artie Studio 4 rajzoló- és programozóműhelye"
+    },
+    {
       "id": "link-01",
       "title": "Tanulási szokások",
       "category": "meres",
