@@ -91,3 +91,15 @@ kbd{font-size:10px;color:#50647a;border-color:#cad6e0;padding:2px 5px;background
 .subject-links a.nav-resource{display:flex;align-items:center;gap:10px;padding:9px 6px}.nav-resource>span:last-child{min-width:0;flex:1}.nav-thumb{width:44px;height:36px;flex:0 0 44px;object-fit:cover;border-radius:5px;background:#e7f0f0;border:1px solid #66818d}.nav-symbol{display:grid;place-items:center;color:#214e56;font-size:23px}.nav-resource:hover{background:#284355;border-radius:6px}
 
 .chatbot-grade-shortcut{display:flex;align-items:center;gap:14px;margin:14px 0;padding:17px;border:1px solid #bdd7d9;border-radius:12px;background:#edf7f6;color:#225b62;text-decoration:none}.chatbot-grade-shortcut img{border-radius:8px;object-fit:cover;flex-shrink:0}.chatbot-grade-shortcut>span:nth-child(2){flex:1}.chatbot-grade-shortcut strong,.chatbot-grade-shortcut small{display:block}.chatbot-grade-shortcut strong{font-size:16px}.chatbot-grade-shortcut small{font-size:12px;margin-top:4px}.chatbot-grade-shortcut:hover{background:#dfefee}.chatbot-grade-link{color:#e9d49d!important}
+
+/* The navigation remains available in normal, mobile and wide lesson views. */
+#menu-toggle{display:inline-flex;align-items:center;justify-content:center;gap:7px;flex-shrink:0;min-height:43px;white-space:nowrap}
+#sidebar{transition:transform .18s ease}
+#sidebar .brand{padding-right:28px}
+#menu-close{position:absolute;top:12px;right:10px;width:34px;height:34px;border:1px solid #627b90;border-radius:7px;background:transparent;color:white;font-size:25px;line-height:1;display:grid;place-items:center}
+#menu-close:hover{background:#35465e}
+.menu-collapsed .shell{margin-left:0}
+.menu-collapsed #sidebar,.focus #sidebar{display:block;transform:translateX(-100%)}
+body.menu-open #sidebar{display:block;transform:translateX(0)}
+#backdrop{position:fixed;inset:0;z-index:19;background:#15243899;border:0}
+@media(prefers-reduced-motion:reduce){#sidebar{transition:none}}
