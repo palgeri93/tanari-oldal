@@ -2695,6 +2695,17 @@
       "kind": "Chatbot",
       "preview": "assets/chatbot-tanulotars.svg",
       "previewAlt": "Mosolygó chatbot illusztrációja"
+    },
+    {
+      "id": "redmenta-foldrajz-1341",
+      "title": "Földrajz – Redmenta-tananyag",
+      "category": "foldrajz",
+      "description": "Földrajzi tananyag a Redmenta felületén.",
+      "url": "https://app.redmenta.com/hu/lessonView?lesson_id=1341&utm_source=redmenta&utm_medium=lesson&utm_campaign=lesson_share",
+      "embed": false,
+      "source": "Redmenta",
+      "group": "Földrajzi tananyagok",
+      "kind": "Tananyag"
     }
   ],
   "updatedAt": "2026-11-09",
