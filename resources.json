@@ -2672,9 +2672,9 @@
     },
     {
       "id": "redmenta-tanulotars-1749327862",
-      "title": "Tudásellenőrző chatbot II. világháború",
+      "title": "Fogalmak, évszámok, személyek 5-8 osztály",
       "category": "chatbotok",
-      "description": "Tudásellenőrző chatbot a II. világháború témaköréhez.",
+      "description": "Fogalmak, évszámok és személyek gyakorlása az 5–8. osztály számára.",
       "url": "https://app.redmenta.com/hu/chatbotSolve?ks_id=1749327862&utm_source=redmenta&utm_medium=worksheet&utm_campaign=worksheet_share",
       "embed": false,
       "source": "Redmenta",
@@ -2685,9 +2685,9 @@
     },
     {
       "id": "redmenta-tanulotars-1220844265",
-      "title": "Fogalmak, évszámok, személyek 5-8 osztály",
+      "title": "Tudásellenőrző chatbot II. világháború",
       "category": "chatbotok",
-      "description": "Fogalmak, évszámok és személyek gyakorlása az 5–8. osztály számára.",
+      "description": "Tudásellenőrző chatbot a II. világháború témaköréhez.",
       "url": "https://app.redmenta.com/hu/chatbotSolve?ks_id=1220844265&utm_source=redmenta&utm_medium=worksheet&utm_campaign=worksheet_share",
       "embed": false,
       "source": "Redmenta",
@@ -2706,6 +2706,42 @@
       "source": "Redmenta",
       "group": "Földrajzi tananyagok",
       "kind": "Tananyag"
+    },
+    {
+      "id": "enter-the-portal-1-szoszedet",
+      "title": "ENTER THE PORTAL 1 – Szószedet és nyelvtan",
+      "category": "angol",
+      "description": "Az ENTER THE PORTAL 1 kötet magyar szószedete és nyelvtani összefoglalója PDF formátumban.",
+      "url": "https://hu.elt-eu.com/sites/default/files/media/unprotected-files/ETP_1_Szoszedet_es_nyelvtan.pdf",
+      "embed": false,
+      "source": "ELT Hungary",
+      "group": "ENTER THE PORTAL szójegyzék",
+      "kind": "Szójegyzék",
+      "portalGlossary": true
+    },
+    {
+      "id": "enter-the-portal-2-szoszedet",
+      "title": "ENTER THE PORTAL 2 – Szószedet és nyelvtan",
+      "category": "angol",
+      "description": "Az ENTER THE PORTAL 2 kötet magyar szószedete és nyelvtani összefoglalója PDF formátumban.",
+      "url": "https://hu.elt-eu.com/sites/default/files/media/unprotected-files/ETP_2_Szoszedet_es_nyelvtan.pdf",
+      "embed": false,
+      "source": "ELT Hungary",
+      "group": "ENTER THE PORTAL szójegyzék",
+      "kind": "Szójegyzék",
+      "portalGlossary": true
+    },
+    {
+      "id": "enter-the-portal-3-szoszedet",
+      "title": "ENTER THE PORTAL 3 – Szószedet és nyelvtan",
+      "category": "angol",
+      "description": "Az ENTER THE PORTAL 3 kötet magyar szószedete és nyelvtani összefoglalója PDF formátumban.",
+      "url": "https://hu.elt-eu.com/sites/default/files/media/unprotected-files/ETP_3_Szoszedet_es_nyelvtan.pdf",
+      "embed": false,
+      "source": "ELT Hungary",
+      "group": "ENTER THE PORTAL szójegyzék",
+      "kind": "Szójegyzék",
+      "portalGlossary": true
     }
   ],
   "updatedAt": "2026-11-09",
