@@ -23,6 +23,11 @@ syncMenu();
 function navResource(r){const picture=r.cover||r.preview;const thumb=picture?`<img class="nav-thumb" src="${esc(picture)}" alt="" loading="lazy" width="44" height="36">`:`<span class="nav-thumb nav-symbol" aria-hidden="true">${category(r.category).icon}</span>`;return `<a class="nav-resource" href="${esc(destination(r))}"${r.download?' download':''}>${thumb}<span>${r.episode?`${r.episode}. `:''}${esc(r.title)}${r.code?`<small class="nav-code">${esc(r.code)}</small>`:''}</span></a>`;}
 
 function subjectNavigation(c,rows){
+ if(c.id==='angol'){
+  const portal=rows.filter(r=>r.portalGlossary),other=rows.filter(r=>!r.portalGlossary);
+  return `${portal.length?`<details class="nav-subgroup"><summary>ENTER THE PORTAL szójegyzék <span>${portal.length}</span></summary>${portal.map(navResource).join('')}</details>`:''}${other.map(navResource).join('')}`;
+ }
+
  if(c.id==='tortenelem'){
   const books=rows.filter(r=>r.code&&r.kind!=='Atlasz'),videos=rows.filter(r=>r.series),other=rows.filter(r=>!r.code&&!r.series&&!r.zanza),zanza=rows.filter(r=>r.zanza);
   return `<details class="nav-subgroup"><summary>Tankönyvek és munkafüzetek <span>${books.length}</span></summary><a href="#konyvek">Minden évfolyam →</a>${[5,6,7,8].filter(n=>books.some(r=>r.grade===n)).map(n=>`<a href="#evfolyam/${n}">${n}. évfolyam · tankönyv és munkafüzet</a>${n===7?`<a class="chatbot-grade-link" href="#tema/chatbotok">🤖 II. világháború tanulótárs</a>`:''}`).join('')}</details><a class="atlas-quick-link" href="#atlasz">▤ Történelmi atlasz →</a><details class="nav-subgroup"><summary>Magyarország története <span>${videos.length}</span></summary><a href="#videok">A sorozat megnyitása →</a>${[1,11,21,31,41].map(n=>{const part=videos.filter(r=>r.episode>=n&&r.episode<n+10);return part.length?`<details class="nav-range"><summary>${n}–${Math.min(n+9,46)}. rész</summary>${part.map(navResource).join('')}</details>`:'';}).join('')}</details>${zanza.length?`<details class="nav-subgroup"><summary>Zanza TV · témakörök <span>${zanza.length}</span></summary><a href="#zanza">Minden Zanza-témakör →</a>${[...new Set(zanza.map(r=>r.zanzaTopic))].map(id=>{const part=zanza.filter(r=>r.zanzaTopic===id);return `<details class="nav-range"><summary>${esc(part[0].zanzaTopicTitle)} <span>${part.length}</span></summary>${part.map(navResource).join('')}</details>`;}).join('')}</details>`:''}${other.map(navResource).join('')}`;
@@ -48,6 +53,11 @@ function zanzaCard(r){return `<article class="resource video-card zanza-card" da
 function zanzaLibrary(rows,open=false){const groups=[...new Set(rows.map(r=>r.zanzaTopic))].map(id=>{const part=rows.filter(r=>r.zanzaTopic===id);return `<details class="episode-range zanza-topic" name="zanza-topics"><summary>${esc(part[0].zanzaTopicTitle)} <span>${part.length} videó</span><span class="fold-chevron" aria-hidden="true">⌄</span></summary><div class="resources video-grid">${part.map(zanzaCard).join('')}</div></details>`;}).join('');return foldout('Zanza TV · történelemvideók',rows.length+' videó',`<p class="library-intro">Nyiss ki egy témakört, és kattints a videó képére: a lejátszó itt, az oldalon indul el. A cím minden videó alatt olvasható. Középiskolai tananyag; általános iskolában tanári válogatással használd.</p>${groups}`,'zanza-group',open);}
 
 function resourceSections(rows,cat){
+ if(cat?.id==='angol'&&!search()){
+  const portal=rows.filter(r=>r.portalGlossary),other=rows.filter(r=>!r.portalGlossary);
+  return `${portal.length?foldout('ENTER THE PORTAL szójegyzék',portal.length,`<div class="resources">${portal.map(card).join('')}</div>`,'portal-glossary',true):''}${other.length?`<div class="resources">${other.map(card).join('')}</div>`:''}`;
+ }
+
  if(cat?.id==='tortenelem'&&!search()){
   const books=rows.filter(r=>r.code&&r.kind!=='Atlasz'),atlas=rows.filter(r=>r.kind==='Atlasz'),videos=rows.filter(r=>r.series),other=rows.filter(r=>!r.series&&!r.code&&!r.zanza),zanza=rows.filter(r=>r.zanza);
   if(facet.startsWith('grade-'))return `<div class="resources book-pair">${books.sort((a,b)=>a.kind==='Tankönyv'?-1:1).map(card).join('')}</div>${chatbotGradeLink(Number(facet.slice(6)))}`;
