@@ -2742,6 +2742,28 @@
       "group": "ENTER THE PORTAL szójegyzék",
       "kind": "Szójegyzék",
       "portalGlossary": true
+    },
+    {
+      "id": "metnet-magyarorszag-meteorologia",
+      "title": "Magyarország meteorológiai adatai",
+      "category": "foldrajz",
+      "description": "Magyarországi meteorológiai térképek és időjárási adatok a MetNet oldalán.",
+      "url": "https://metnet.hu/terkepek",
+      "embed": false,
+      "kind": "Adatbázis",
+      "group": "Adatbázisok",
+      "source": "MetNet"
+    },
+    {
+      "id": "climatecharts-klimadiagramok",
+      "title": "Klímadiagramok",
+      "category": "foldrajz",
+      "description": "Éghajlati diagramok és havi hőmérsékleti, illetve csapadékadatok a világ különböző pontjairól.",
+      "url": "https://climatecharts.net/",
+      "embed": false,
+      "kind": "Adatbázis",
+      "group": "Adatbázisok",
+      "source": "ClimateCharts"
     }
   ],
   "updatedAt": "2026-11-09",
