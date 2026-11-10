@@ -488,17 +488,6 @@
       "kind": "Interaktív tananyag"
     },
     {
-      "id": "klimadiagramok",
-      "title": "Klímadiagramok",
-      "category": "foldrajz",
-      "description": "Éghajlati diagramok megtekintése és összehasonlítása a világ különböző területein.",
-      "url": "https://climatecharts.net/",
-      "embed": true,
-      "source": "ClimateCharts",
-      "kind": "Interaktív tananyag",
-      "featured": false
-    },
-    {
       "id": "link-29",
       "title": "Angol szógyakorló",
       "category": "angol",
@@ -2755,18 +2744,19 @@
       "source": "MetNet"
     },
     {
-      "id": "climatecharts-klimadiagramok",
+      "id": "klimadiagramok",
       "title": "Klímadiagramok",
       "category": "foldrajz",
-      "description": "Éghajlati diagramok és havi hőmérsékleti, illetve csapadékadatok a világ különböző pontjairól.",
+      "description": "Éghajlati diagramok megtekintése és összehasonlítása a világ különböző területein.",
       "url": "https://climatecharts.net/",
-      "embed": false,
-      "kind": "Adatbázis",
-      "group": "Adatbázisok",
-      "source": "ClimateCharts"
+      "embed": true,
+      "source": "ClimateCharts",
+      "kind": "Interaktív tananyag",
+      "featured": false,
+      "group": "Adatbázisok"
     }
   ],
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-10",
   "series": [
     {
       "id": "magyarorszag-tortenete",
