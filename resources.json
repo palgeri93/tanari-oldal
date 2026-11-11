@@ -352,7 +352,8 @@
       "sourceTitle": "Árpád kor tanulókártyák",
       "group": "Könyvjelzők",
       "featured": false,
-      "kind": "Dokumentum"
+      "kind": "Dokumentum",
+      "grade": 6
     },
     {
       "id": "link-19",
@@ -381,7 +382,8 @@
       "sourceTitle": "Árpád-kor",
       "group": "Könyvjelzők",
       "featured": false,
-      "kind": "Dokumentum"
+      "kind": "Dokumentum",
+      "grade": 6
     },
     {
       "id": "link-21",
@@ -446,7 +448,8 @@
       "sourceTitle": "Árpád kor",
       "group": "Könyvjelzők",
       "featured": false,
-      "kind": "Dokumentum"
+      "kind": "Dokumentum",
+      "grade": 6
     },
     {
       "id": "link-26",
@@ -457,7 +460,7 @@
       "embed": true,
       "source": "Symbaloo",
       "sourceTitle": "Nap-szimulátor – magyar változat",
-      "group": "Könyvjelzők / Földrajzos html oldalak",
+      "group": "Animációk, szimulátorok",
       "featured": false,
       "kind": "Interaktív tananyag"
     },
@@ -470,7 +473,7 @@
       "embed": true,
       "source": "Symbaloo",
       "sourceTitle": "Gleccserek – interaktív magyar tananyag",
-      "group": "Könyvjelzők / Földrajzos html oldalak",
+      "group": "Animációk, szimulátorok",
       "featured": false,
       "kind": "Interaktív tananyag"
     },
@@ -483,7 +486,7 @@
       "embed": true,
       "source": "Symbaloo",
       "sourceTitle": "Légkörzés és csapadék – magyar animáció",
-      "group": "Könyvjelzők / Földrajzos html oldalak",
+      "group": "Animációk, szimulátorok",
       "featured": false,
       "kind": "Interaktív tananyag"
     },
@@ -574,15 +577,19 @@
     {
       "id": "link-35",
       "title": "Földrajz 7–8. munkafüzet",
-      "category": "dokumentumok",
+      "category": "foldrajz",
       "description": "OH-FOL78MA, PDF. A Symbaloo csempéjén Matematika tankönyv felirat szerepelt, de a hivatkozás földrajz-munkafüzetre mutat.",
       "url": "https://www.tankonyvkatalogus.hu/storage/pdf/OH-FOL78MA__teljes.pdf",
       "embed": false,
       "source": "Symbaloo",
       "sourceTitle": "MATEMATIKA TANKÖNYV",
-      "group": "Tankönyvek / MATEMATIKA TANKÖNYV",
+      "group": "Tankönyvek",
       "featured": false,
-      "kind": "PDF"
+      "kind": "Munkafüzet",
+      "grades": [
+        7,
+        8
+      ]
     },
     {
       "id": "napmozgas-magyar",
@@ -592,7 +599,8 @@
       "url": "https://palgeri93.github.io/napmozgas-magyar/",
       "embed": true,
       "source": "Korábban elkészített földrajzi tananyag",
-      "kind": "Interaktív tananyag"
+      "kind": "Interaktív tananyag",
+      "group": "Animációk, szimulátorok"
     },
     {
       "id": "evszakok-modell-magyar",
@@ -605,7 +613,8 @@
       "kind": "Interaktív tananyag",
       "preview": "assets/previews/evszakok-modell-magyar.jpg",
       "previewSource": "https://palgeri93.github.io/evszakok-modell-magyar/?v=map-orientation-2",
-      "previewDate": "2026-11-01"
+      "previewDate": "2026-11-01",
+      "group": "Animációk, szimulátorok"
     },
     {
       "id": "evszakok-magyar",
@@ -615,7 +624,8 @@
       "url": "https://palgeri93.github.io/evszakok-magyar/",
       "embed": true,
       "source": "Korábban elkészített földrajzi tananyag",
-      "kind": "Interaktív tananyag"
+      "kind": "Interaktív tananyag",
+      "group": "Animációk, szimulátorok"
     },
     {
       "id": "nap-delelesi-szoge-magyar",
@@ -625,7 +635,8 @@
       "url": "https://palgeri93.github.io/nap-delelesi-szoge-magyar/",
       "embed": true,
       "source": "Korábban elkészített földrajzi tananyag",
-      "kind": "Interaktív tananyag"
+      "kind": "Interaktív tananyag",
+      "group": "Animációk, szimulátorok"
     },
     {
       "id": "fogyatkozasok-magyar",
@@ -635,7 +646,8 @@
       "url": "https://palgeri93.github.io/fogyatkozasok-magyar/",
       "embed": true,
       "source": "Korábban elkészített földrajzi tananyag",
-      "kind": "Interaktív tananyag"
+      "kind": "Interaktív tananyag",
+      "group": "Animációk, szimulátorok"
     },
     {
       "id": "azimut-napmagassag-magyar",
@@ -645,7 +657,8 @@
       "url": "https://palgeri93.github.io/azimut-napmagassag-magyar/",
       "embed": true,
       "source": "Korábban elkészített földrajzi tananyag",
-      "kind": "Interaktív tananyag"
+      "kind": "Interaktív tananyag",
+      "group": "Animációk, szimulátorok"
     },
     {
       "id": "eggomb-magyar",
@@ -655,7 +668,8 @@
       "url": "https://palgeri93.github.io/eggomb-magyar/",
       "embed": true,
       "source": "Korábban elkészített földrajzi tananyag",
-      "kind": "Interaktív tananyag"
+      "kind": "Interaktív tananyag",
+      "group": "Animációk, szimulátorok"
     },
     {
       "id": "sajat-naprendszer-magyar",
@@ -665,7 +679,8 @@
       "url": "https://palgeri93.github.io/sajat-naprendszer-magyar/",
       "embed": true,
       "source": "Korábban elkészített földrajzi tananyag",
-      "kind": "Interaktív tananyag"
+      "kind": "Interaktív tananyag",
+      "group": "Animációk, szimulátorok"
     },
     {
       "id": "lemeztektonika-magyar",
@@ -675,7 +690,8 @@
       "url": "https://palgeri93.github.io/lemeztektonika-magyar/",
       "embed": true,
       "source": "Korábban elkészített földrajzi tananyag",
-      "kind": "Interaktív tananyag"
+      "kind": "Interaktív tananyag",
+      "group": "Animációk, szimulátorok"
     },
     {
       "id": "vulkantipusok-magyar",
@@ -685,7 +701,8 @@
       "url": "https://palgeri93.github.io/vulkantipusok-magyar/",
       "embed": true,
       "source": "Korábban elkészített földrajzi tananyag",
-      "kind": "Interaktív tananyag"
+      "kind": "Interaktív tananyag",
+      "group": "Animációk, szimulátorok"
     },
     {
       "id": "lejtos-tomegmozgasok-magyar",
@@ -695,7 +712,8 @@
       "url": "https://palgeri93.github.io/lejtos-tomegmozgasok-magyar/",
       "embed": true,
       "source": "Korábban elkészített földrajzi tananyag",
-      "kind": "Interaktív tananyag"
+      "kind": "Interaktív tananyag",
+      "group": "Animációk, szimulátorok"
     },
     {
       "id": "felszin-alatti-vizek-magyar",
@@ -705,7 +723,8 @@
       "url": "https://palgeri93.github.io/felszin-alatti-vizek-magyar/",
       "embed": true,
       "source": "Korábban elkészített földrajzi tananyag",
-      "kind": "Interaktív tananyag"
+      "kind": "Interaktív tananyag",
+      "group": "Animációk, szimulátorok"
     },
     {
       "id": "arvizek-magyar",
@@ -715,7 +734,8 @@
       "url": "https://palgeri93.github.io/arvizek-magyar/",
       "embed": true,
       "source": "Korábban elkészített földrajzi tananyag",
-      "kind": "Interaktív tananyag"
+      "kind": "Interaktív tananyag",
+      "group": "Animációk, szimulátorok"
     },
     {
       "id": "oceani-aramlasok-magyar",
@@ -725,7 +745,8 @@
       "url": "https://palgeri93.github.io/oceani-aramlasok-magyar/",
       "embed": true,
       "source": "Korábban elkészített földrajzi tananyag",
-      "kind": "Interaktív tananyag"
+      "kind": "Interaktív tananyag",
+      "group": "Animációk, szimulátorok"
     },
     {
       "id": "vallasok-magyar",
@@ -735,7 +756,8 @@
       "url": "https://palgeri93.github.io/vallasok-magyar/",
       "embed": true,
       "source": "Korábban elkészített földrajzi tananyag",
-      "kind": "Interaktív tananyag"
+      "kind": "Interaktív tananyag",
+      "group": "Animációk, szimulátorok"
     },
     {
       "id": "foldrajzi-gyujtemeny",
@@ -2754,9 +2776,65 @@
       "kind": "Interaktív tananyag",
       "featured": false,
       "group": "Adatbázisok"
+    },
+    {
+      "id": "tanulokartyak-karoly-matyas",
+      "title": "Tanulókártyák I. Károly–I. Mátyás",
+      "category": "tortenelem",
+      "grade": 6,
+      "description": "Tanulókártyák a magyar középkor történetéhez, I. Károlytól I. Mátyásig.",
+      "url": "https://notebook.google.com/notebook/ce350302-1c6a-4acc-abbe-0235cd1d680e/artifact/4005ad9c-c313-4f32-82c3-e6ed69521d33?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_",
+      "embed": false,
+      "kind": "Tanulókártyák",
+      "source": "NotebookLM"
+    },
+    {
+      "id": "nkp-foldrajz-a",
+      "title": "Földrajz 7–8. – NKP okostankönyv (A)",
+      "category": "foldrajz",
+      "grades": [
+        7,
+        8
+      ],
+      "group": "Tankönyvek",
+      "kind": "Okostankönyv",
+      "description": "Közös digitális földrajztankönyv a 7. és 8. évfolyam számára, leckékkel és feladatokkal.",
+      "url": "https://www.nkp.hu/tankonyv/foldrajz_7_8_nat2020/",
+      "embed": false,
+      "source": "Nemzeti Köznevelési Portál"
+    },
+    {
+      "id": "nkp-foldrajz-b",
+      "title": "Földrajz 7–8. – NKP okostankönyv (B)",
+      "category": "foldrajz",
+      "grades": [
+        7,
+        8
+      ],
+      "group": "Tankönyvek",
+      "kind": "Okostankönyv",
+      "description": "Közös digitális földrajztankönyv a 7. és 8. évfolyam számára, leckékkel és feladatokkal.",
+      "url": "https://www.nkp.hu/tankonyv/foldrajz_7_8_nat2020_b/",
+      "embed": false,
+      "source": "Nemzeti Köznevelési Portál"
+    },
+    {
+      "id": "foldrajz-78-tankonyv-pdf",
+      "title": "Földrajz 7–8. – tankönyv (PDF)",
+      "category": "foldrajz",
+      "grades": [
+        7,
+        8
+      ],
+      "group": "Tankönyvek",
+      "kind": "Tankönyv",
+      "description": "OH-FOL78TA: közös földrajztankönyv a 7. és 8. évfolyam számára.",
+      "url": "https://www.tankonyvkatalogus.hu/storage/pdf/OH-FOL78TA__teljes.pdf",
+      "embed": false,
+      "source": "Oktatási Hivatal"
     }
   ],
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-11",
   "series": [
     {
       "id": "magyarorszag-tortenete",
