@@ -7,72 +7,72 @@
       "id": "foldrajz",
       "title": "Földrajz",
       "icon": "◎",
-      "color": "#246959",
-      "tint": "#e7f3ed",
+      "color": "#28584c",
+      "tint": "#edf2ee",
       "description": "Topográfia, természeti folyamatok, interaktív modellek és földrajzi gyakorlók."
     },
     {
       "id": "tortenelem",
       "title": "Történelem",
       "icon": "♜",
-      "color": "#895922",
-      "tint": "#f8f0e3",
+      "color": "#28584c",
+      "tint": "#edf2ee",
       "description": "Évszámok, az Árpád-kor, történelmi tanulókártyák és videók."
     },
     {
       "id": "chatbotok",
       "title": "Chatbotok, tanulótársak",
       "icon": "🤖",
-      "color": "#286b70",
-      "tint": "#e6f4f3",
+      "color": "#28584c",
+      "tint": "#edf2ee",
       "description": "Interaktív tanulótársak és chatbotok az önálló gyakorláshoz. A Redmenta beszélgetős tanulótársai innen érhetők el."
     },
     {
       "id": "angol",
       "title": "Angol",
       "icon": "Aa",
-      "color": "#465d93",
-      "tint": "#ecf0f9",
+      "color": "#28584c",
+      "tint": "#edf2ee",
       "description": "Szótanulás, szószedetek és online szódolgozatok."
     },
     {
       "id": "digitalis-kultura",
       "title": "Digitális kultúra",
       "icon": "⌘",
-      "color": "#365d94",
-      "tint": "#eaf1fa",
+      "color": "#28584c",
+      "tint": "#edf2ee",
       "description": "Artie online rajzoló- és programozóműhely, digitális kultúra tankönyvek a 3–8. évfolyam számára, NKP-tananyagok és Diáklevelező."
     },
     {
       "id": "tanulas",
       "title": "Tanulás és játék",
       "icon": "✧",
-      "color": "#78518a",
-      "tint": "#f4edf7",
+      "color": "#28584c",
+      "tint": "#edf2ee",
       "description": "Játékos gyakorlás és közös tanulást segítő felületek."
     },
     {
       "id": "tanari",
       "title": "Tanári eszközök",
       "icon": "✎",
-      "color": "#895b2d",
-      "tint": "#f7efe7",
+      "color": "#28584c",
+      "tint": "#edf2ee",
       "description": "Óraszervezés, ötletgyűjtés, oklevelek és online dolgozatok."
     },
     {
       "id": "meres",
       "title": "Mérés és értékelés",
       "icon": "▥",
-      "color": "#3c697c",
-      "tint": "#e9f2f6",
+      "color": "#28584c",
+      "tint": "#edf2ee",
       "description": "Tanulási szokások, kérdőívek, kompetenciaelemzés és statisztikai eszközök."
     },
     {
       "id": "dokumentumok",
       "title": "Tankönyvek és dokumentumok",
       "icon": "▤",
-      "color": "#576b31",
-      "tint": "#f0f4e7",
+      "color": "#28584c",
+      "tint": "#edf2ee",
       "description": "Munkafüzetek és megosztott dokumentumok az eredeti gyűjteményből."
     }
   ],
@@ -589,7 +589,13 @@
       "grades": [
         7,
         8
-      ]
+      ],
+      "cover": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-FOL78MA.jpg",
+      "coverSource": "https://www.tankonyvkatalogus.hu/tankonyv/OH-FOL78MA",
+      "code": "OH-FOL78MA",
+      "grade": 7,
+      "gradeLabel": "7–8. évfolyam",
+      "catalogueUrl": "https://www.tankonyvkatalogus.hu/tankonyv/OH-FOL78MA"
     },
     {
       "id": "napmozgas-magyar",
@@ -2801,7 +2807,9 @@
       "description": "Közös digitális földrajztankönyv a 7. és 8. évfolyam számára, leckékkel és feladatokkal.",
       "url": "https://www.nkp.hu/tankonyv/foldrajz_7_8_nat2020/",
       "embed": false,
-      "source": "Nemzeti Köznevelési Portál"
+      "source": "Nemzeti Köznevelési Portál",
+      "cover": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-FOL78TA.jpg",
+      "coverSource": "https://www.tankonyvkatalogus.hu/tankonyv/OH-FOL78TA"
     },
     {
       "id": "nkp-foldrajz-b",
@@ -2816,7 +2824,9 @@
       "description": "Közös digitális földrajztankönyv a 7. és 8. évfolyam számára, leckékkel és feladatokkal.",
       "url": "https://www.nkp.hu/tankonyv/foldrajz_7_8_nat2020_b/",
       "embed": false,
-      "source": "Nemzeti Köznevelési Portál"
+      "source": "Nemzeti Köznevelési Portál",
+      "cover": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-FOL78TB.jpg",
+      "coverSource": "https://www.tankonyvkatalogus.hu/tankonyv/OH-FOL78TB"
     },
     {
       "id": "foldrajz-78-tankonyv-pdf",
@@ -2831,7 +2841,13 @@
       "description": "OH-FOL78TA: közös földrajztankönyv a 7. és 8. évfolyam számára.",
       "url": "https://www.tankonyvkatalogus.hu/storage/pdf/OH-FOL78TA__teljes.pdf",
       "embed": false,
-      "source": "Oktatási Hivatal"
+      "source": "Oktatási Hivatal",
+      "cover": "https://www.tankonyvkatalogus.hu/storage/images/cover/OH-FOL78TA.jpg",
+      "coverSource": "https://www.tankonyvkatalogus.hu/tankonyv/OH-FOL78TA",
+      "code": "OH-FOL78TA",
+      "grade": 7,
+      "gradeLabel": "7–8. évfolyam",
+      "catalogueUrl": "https://www.tankonyvkatalogus.hu/tankonyv/OH-FOL78TA"
     }
   ],
   "updatedAt": "2026-11-11",
