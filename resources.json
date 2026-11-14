@@ -78,6 +78,18 @@
   ],
   "resources": [
     {
+      "id": "dolgozatmuhely",
+      "title": "Dolgozatműhely",
+      "category": "tanari",
+      "description": "Dolgozatok összeállítása hét feladattípussal, képekkel és elemenkénti pontozással. Tanulói kitöltés dolgozatkóddal, a Térképműhelyben használt fiókkal.",
+      "url": "https://palgeri93.alwaysdata.net/topografia/dolgozat/",
+      "embed": false,
+      "source": "Saját alkalmazás",
+      "group": "Dolgozatok és értékelés",
+      "kind": "Dolgozatírás",
+      "featured": true
+    },
+    {
       "id": "artie-studio-online",
       "title": "Artie Studio – online műhely",
       "category": "digitalis-kultura",
@@ -2850,7 +2862,7 @@
       "catalogueUrl": "https://www.tankonyvkatalogus.hu/tankonyv/OH-FOL78TA"
     }
   ],
-  "updatedAt": "2026-11-11",
+  "updatedAt": "2026-11-14",
   "series": [
     {
       "id": "magyarorszag-tortenete",
