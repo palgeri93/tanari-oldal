@@ -78,6 +78,17 @@
   ],
   "resources": [
     {
+      "id": "kvizmuhely",
+      "title": "Kvízműhely",
+      "category": "tanari",
+      "description": "Élő, gyorsasági kvíz képes kérdésekkel, egyszeres választással és fordulónkénti ranglistával. Közös Térképműhely-belépés; 24 órás adattárolás.",
+      "url": "https://palgeri93.alwaysdata.net/topografia/kviz/",
+      "embed": false,
+      "featured": true,
+      "source": "Saját alkalmazás",
+      "kind": "Élő kvíz"
+    },
+    {
       "id": "dolgozatmuhely",
       "title": "Dolgozatműhely",
       "category": "tanari",
