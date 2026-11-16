@@ -117,9 +117,12 @@ header{height:74px;background:#fdfcf9;border-bottom:1px solid var(--line)}.searc
 @media(max-width:1100px){.resources{grid-template-columns:1fr}.subject-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:720px){header{height:70px}.hero{padding:10px 0 23px;min-height:0}.hero h1{font-size:27px;letter-spacing:-.5px}.hero p{font-size:14px;line-height:1.7}.hero-actions{gap:15px;flex-wrap:wrap}.hero-actions .quiet-link{color:#52665a}.subject-card{padding:14px 12px;column-gap:8px}.subject-card h3{font-size:14px}.subject-card .big-icon{width:22px;height:22px}.subject-card .arrow{display:none}.section-head h2{font-size:21px}.resources,.book-pair{grid-template-columns:1fr!important;gap:10px}.module-card .resource-preview{width:90px;flex-basis:90px}.module-body{padding:13px}.resource h3{font-size:15px}.resource p{font-size:13px}.resource-top{flex-wrap:wrap}.book-pair .book-summary{flex-direction:row}.book-pair .book-kind{font-size:17px}.book-pair .book-card>p{font-size:13px}.book-pair .book-actions{font-size:12px}.book-pair .nkp-open{font-size:13px}.section-title h1{font-size:27px}}
 
-/* History, geography and computer science website background. */
-body{background:#102b3e url("assets/tortenelem-foldrajz-informatika-hatter.png") center center/cover no-repeat fixed}
+/* Light illustrated background with readable content surfaces. */
+body{background:#f6ecd7 url("assets/tortenelem-foldrajz-informatika-vilagos.png") center center/cover no-repeat fixed}
 .shell{background:transparent}
-#content{background:rgba(253,252,249,.94);min-height:calc(100dvh - 140px)}
-footer{background:rgba(253,252,249,.97)}
-@media(max-width:720px){body{background-attachment:scroll}#content{background:rgba(253,252,249,.96)}}
+#content{background:rgba(255,253,247,.24);min-height:calc(100dvh - 140px)}
+.hero{background:rgba(255,253,247,.88);padding:26px 28px;border:1px solid #e5dbc9;border-radius:12px}
+.section-head{background:rgba(255,253,247,.9);padding:12px 16px;border-radius:8px;gap:16px}
+.section-title,.list-toolbar,.library-intro,.back-link,.empty{background:rgba(255,253,247,.94);padding:12px 16px;border-radius:8px}
+footer{background:rgba(255,253,247,.96)}
+@media(max-width:720px){body{background-attachment:scroll}.hero{padding:22px 20px}.section-head{padding:12px;flex-wrap:wrap}.section-head p{max-width:none;text-align:left}}
