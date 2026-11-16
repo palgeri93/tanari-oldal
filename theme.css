@@ -116,3 +116,10 @@ header{height:74px;background:#fdfcf9;border-bottom:1px solid var(--line)}.searc
 @media(min-width:1550px){.resources{grid-template-columns:repeat(2,minmax(0,1fr))}.video-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
 @media(max-width:1100px){.resources{grid-template-columns:1fr}.subject-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:720px){header{height:70px}.hero{padding:10px 0 23px;min-height:0}.hero h1{font-size:27px;letter-spacing:-.5px}.hero p{font-size:14px;line-height:1.7}.hero-actions{gap:15px;flex-wrap:wrap}.hero-actions .quiet-link{color:#52665a}.subject-card{padding:14px 12px;column-gap:8px}.subject-card h3{font-size:14px}.subject-card .big-icon{width:22px;height:22px}.subject-card .arrow{display:none}.section-head h2{font-size:21px}.resources,.book-pair{grid-template-columns:1fr!important;gap:10px}.module-card .resource-preview{width:90px;flex-basis:90px}.module-body{padding:13px}.resource h3{font-size:15px}.resource p{font-size:13px}.resource-top{flex-wrap:wrap}.book-pair .book-summary{flex-direction:row}.book-pair .book-kind{font-size:17px}.book-pair .book-card>p{font-size:13px}.book-pair .book-actions{font-size:12px}.book-pair .nkp-open{font-size:13px}.section-title h1{font-size:27px}}
+
+/* History, geography and computer science website background. */
+body{background:#102b3e url("assets/tortenelem-foldrajz-informatika-hatter.png") center center/cover no-repeat fixed}
+.shell{background:transparent}
+#content{background:rgba(253,252,249,.94);min-height:calc(100dvh - 140px)}
+footer{background:rgba(253,252,249,.97)}
+@media(max-width:720px){body{background-attachment:scroll}#content{background:rgba(253,252,249,.96)}}
