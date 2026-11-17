@@ -78,6 +78,17 @@
   ],
   "resources": [
     {
+      "id": "powerpoint-sablonok",
+      "title": "Sablonok · PowerPoint",
+      "category": "digitalis-kultura",
+      "description": "Letölthető PPTX-bemutatók. Saját sablonok feltöltése tanári adminbelépéssel.",
+      "url": "https://palgeri93.alwaysdata.net/topografia/sablonok/",
+      "embed": false,
+      "source": "Saját gyűjtemény",
+      "group": "PowerPoint",
+      "kind": "PPTX-sablonok"
+    },
+    {
       "id": "kvizmuhely",
       "title": "Kvízműhely",
       "category": "tanari",
