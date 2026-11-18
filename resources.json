@@ -2692,7 +2692,9 @@
       "source": "Saját alkalmazás",
       "group": "Kommunikáció és feladatküldés",
       "kind": "E-mail-küldés",
-      "featured": true
+      "featured": true,
+      "preview": "assets/diak-levelezo-logo.png",
+      "previewAlt": "DIÁK LEVELEZŐ aranyszínű borítékos logó"
     },
     {
       "id": "redmenta-tanulotars-7",
@@ -2869,6 +2871,63 @@
       "grade": 7,
       "gradeLabel": "7–8. évfolyam",
       "catalogueUrl": "https://www.tankonyvkatalogus.hu/tankonyv/OH-FOL78TA"
+    },
+    {
+      "id": "excel-tananyag",
+      "title": "Excel",
+      "description": "Időjárásos függvénytanuló, tanári vázlat és tanulói feladatsor. 18 függvény, 36 feladat.",
+      "url": "https://palgeri93.github.io/tanari-oldal/#excel",
+      "kind": "Tananyaggyűjtemény",
+      "category": "digitalis-kultura",
+      "group": "Excel",
+      "embed": false,
+      "source": "Saját tananyag",
+      "featured": false
+    },
+    {
+      "id": "excel-tanuloi",
+      "title": "Tanulói feladatok",
+      "url": "https://palgeri93.github.io/tanari-oldal/excel/Tanuloi_feladatok.xlsx",
+      "description": "36 feladat, 120 időjárási gyakorlóadatsor és segédtáblák. Kitölthető válaszmezők, megoldókulcs nélkül.",
+      "kind": "Excel-munkafüzet",
+      "download": true,
+      "downloadType": "XLSX",
+      "downloadSize": "Letöltés",
+      "category": "digitalis-kultura",
+      "group": "Excel",
+      "embed": false,
+      "source": "Saját tananyag",
+      "featured": false
+    },
+    {
+      "id": "excel-tanari",
+      "title": "Tanári vázlat és megoldások",
+      "url": "https://palgeri93.github.io/tanari-oldal/excel/Tanari_vazlat_es_megoldasok.xlsx",
+      "description": "Óravázlat, függvénymagyarázatok és a 36 feladat megoldókulcsa. Minden függvénylapon két számozott kidolgozott megoldás.",
+      "kind": "Excel-munkafüzet",
+      "download": true,
+      "downloadType": "XLSX",
+      "downloadSize": "Letöltés",
+      "category": "digitalis-kultura",
+      "group": "Excel",
+      "embed": false,
+      "source": "Saját tananyag",
+      "featured": false
+    },
+    {
+      "id": "excel-egyesitett",
+      "title": "Időjárásos függvénytanuló",
+      "url": "https://palgeri93.github.io/tanari-oldal/excel/Idojaras_fuggvenytanulo.xlsx",
+      "description": "Egyesített munkafüzet függvénybemutatókkal, 36 feladattal, önellenőrzéssel és kidolgozott megoldásokkal.",
+      "kind": "Excel-munkafüzet",
+      "download": true,
+      "downloadType": "XLSX",
+      "downloadSize": "Letöltés",
+      "category": "digitalis-kultura",
+      "group": "Excel",
+      "embed": false,
+      "source": "Saját tananyag",
+      "featured": false
     }
   ],
   "updatedAt": "2026-11-14",
