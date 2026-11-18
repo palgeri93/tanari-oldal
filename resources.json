@@ -2928,6 +2928,33 @@
       "embed": false,
       "source": "Saját tananyag",
       "featured": false
+    },
+    {
+      "id": "office-segedanyagok",
+      "title": "Office",
+      "description": "Segédanyagok a Word, az Excel és a PowerPoint használatához.",
+      "url": "https://palgeri93.github.io/tanari-oldal/#office",
+      "kind": "Tananyaggyűjtemény",
+      "category": "digitalis-kultura",
+      "group": "Office",
+      "embed": false,
+      "source": "Saját tananyag",
+      "featured": false
+    },
+    {
+      "id": "office-billentyuparancsok",
+      "title": "A legfontosabb billentyűparancsok",
+      "description": "Egyoldalas, nyomtatható segédlet a Windows 10, a Word, az Excel és a PowerPoint legfontosabb billentyűparancsaival.",
+      "url": "https://palgeri93.github.io/tanari-oldal/office/Billentyuparancsok_egy_oldalon.docx",
+      "kind": "Billentyűparancsok",
+      "download": true,
+      "downloadType": "DOCX",
+      "downloadSize": "28 KB",
+      "category": "digitalis-kultura",
+      "group": "Office",
+      "embed": false,
+      "source": "Saját tananyag",
+      "featured": false
     }
   ],
   "updatedAt": "2026-11-14",
