@@ -2955,6 +2955,20 @@
       "embed": false,
       "source": "Saját tananyag",
       "featured": false
+    },
+    {
+      "id": "paint-3d-telepito",
+      "title": "Paint 3D telepítő",
+      "category": "digitalis-kultura",
+      "description": "A Paint 3D 2024.2405.19017.0 telepítőcsomagja Windows rendszerhez. A letöltött AppxBundle fájl megnyitásával indítható a telepítés.",
+      "url": "https://palfigergo.hu/digitalis-kultura/programok/Paint3D.AppxBundle",
+      "embed": false,
+      "source": "Microsoft",
+      "group": "Programok",
+      "kind": "Telepítő",
+      "download": true,
+      "downloadType": "APPXBUNDLE",
+      "downloadSize": "64,5 MB"
     }
   ],
   "updatedAt": "2026-11-14",
