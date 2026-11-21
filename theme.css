@@ -146,3 +146,9 @@ footer{background:rgba(255,253,247,.96)}
 [data-resource="diak-levelezo"] .resource-preview{background:#fff;}
 [data-resource="diak-levelezo"] .resource-preview img{object-fit:contain;padding:14px;box-sizing:border-box;background:#fff;}
 .nav-resource .nav-thumb[src*="diak-levelezo-logo"]{object-fit:contain;background:#fff;}
+
+/* Recognizable workshop logos in cards and the navigation. */
+[data-resource="link-06"] .resource-preview{background:#fff}[data-resource="link-06"] .resource-preview img{object-fit:contain;padding:12px;box-sizing:border-box;background:#fff}
+[data-resource="dolgozatmuhely"] .resource-preview{background:#fff}[data-resource="dolgozatmuhely"] .resource-preview img{object-fit:contain;padding:12px;box-sizing:border-box;background:#fff}
+[data-resource="kvizmuhely"] .resource-preview{background:#fff}[data-resource="kvizmuhely"] .resource-preview img{object-fit:contain;padding:12px;box-sizing:border-box;background:#fff}
+.nav-resource .nav-thumb[src*="muhely-logo"]{object-fit:contain;background:#fff}
