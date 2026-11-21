@@ -97,7 +97,9 @@
       "embed": false,
       "featured": true,
       "source": "Saját alkalmazás",
-      "kind": "Élő kvíz"
+      "kind": "Élő kvíz",
+      "preview": "assets/kvizmuhely-logo.svg",
+      "previewAlt": "KVÍZ MŰHELY logó"
     },
     {
       "id": "dolgozatmuhely",
@@ -109,7 +111,9 @@
       "source": "Saját alkalmazás",
       "group": "Dolgozatok és értékelés",
       "kind": "Dolgozatírás",
-      "featured": true
+      "featured": true,
+      "preview": "assets/dolgozatmuhely-logo.svg",
+      "previewAlt": "DOLGOZAT MŰHELY logó"
     },
     {
       "id": "artie-studio-4",
@@ -206,9 +210,8 @@
       "group": "Könyvjelzők",
       "featured": true,
       "kind": "Alkalmazás",
-      "preview": "assets/previews/link-06.jpg",
-      "previewSource": "https://palgeri93.alwaysdata.net/topografia/",
-      "previewDate": "2026-11-01"
+      "preview": "assets/terkepmuhely-logo.svg",
+      "previewAlt": "TÉRKÉP MŰHELY logó"
     },
     {
       "id": "link-07",
