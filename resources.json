@@ -116,6 +116,20 @@
       "previewAlt": "DOLGOZAT MŰHELY logó"
     },
     {
+      "id": "gondolatterkep-muhely",
+      "title": "Gondolattérkép műhely",
+      "category": "tanari",
+      "description": "Közös ötletgyűjtés bejelentkezett tanulókkal. Az ismétlődő gondolatok egyre nagyobb betűvel jelennek meg az élő tanári összesítőben. Tanulónkénti nézet, kivetítő és CSV-letöltés; a többi műhellyel közös belépés.",
+      "url": "https://palgeri93.alwaysdata.net/topografia/gondolat/",
+      "embed": false,
+      "featured": true,
+      "source": "Saját alkalmazás",
+      "group": "Közös gondolkodás",
+      "kind": "Gondolattérkép",
+      "preview": "assets/gondolatterkep-logo.svg",
+      "previewAlt": "Gondolattérkép műhely: összekapcsolódó gondolatok zöld-arany logója"
+    },
+    {
       "id": "artie-studio-4",
       "title": "Artie Studio 4 – letöltés",
       "category": "digitalis-kultura",
