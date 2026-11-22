@@ -130,6 +130,20 @@
       "previewAlt": "Gondolattérkép műhely: összekapcsolódó gondolatok zöld-arany logója"
     },
     {
+      "id": "ertekelomuhely",
+      "title": "Értékelőműhely",
+      "category": "tanari",
+      "description": "Önértékelés, társértékelés és csoportértékelés választható kombinációban. Kódos csatlakozás, tanári csoportbeosztás, véletlen társítás és ötfokú skála, 3-as alapértékkel. Tanulói összesítés és CSV-letöltés; közös Térképműhely-belépés.",
+      "url": "https://palgeri93.alwaysdata.net/topografia/ertekeles/",
+      "embed": false,
+      "featured": true,
+      "source": "Saját alkalmazás",
+      "group": "Értékelés és visszajelzés",
+      "kind": "Értékelés",
+      "preview": "https://palgeri93.alwaysdata.net/topografia/ertekeles/logo.svg",
+      "previewAlt": "Értékelőműhely: zöld értékelési skála logó"
+    },
+    {
       "id": "artie-studio-4",
       "title": "Artie Studio 4 – letöltés",
       "category": "digitalis-kultura",
@@ -2988,7 +3002,7 @@
       "downloadSize": "64,5 MB"
     }
   ],
-  "updatedAt": "2026-11-14",
+  "updatedAt": "2026-11-22",
   "series": [
     {
       "id": "magyarorszag-tortenete",
