@@ -78,6 +78,20 @@
   ],
   "resources": [
     {
+      "id": "sakkmuhely",
+      "title": "Sakkműhely",
+      "category": "tanulas",
+      "description": "Hívd ki egy társadat sakkra! Szabályos lépések, mentett sakktábla és lépéstörténet, automatikus frissítés, valamint egymás elleni eredmények. A többi műhellyel közös diákfiókokkal használható.",
+      "url": "https://palgeri93.alwaysdata.net/topografia/sakk/",
+      "embed": false,
+      "featured": true,
+      "source": "Saját alkalmazás",
+      "group": "Gondolkodás és stratégia",
+      "kind": "Közös sakkjáték",
+      "preview": "https://palgeri93.alwaysdata.net/topografia/sakk/logo.svg",
+      "previewAlt": "Sakkműhely: világos huszár mélyzöld alapon"
+    },
+    {
       "id": "powerpoint-sablonok",
       "title": "Sablonok · PowerPoint",
       "category": "digitalis-kultura",
@@ -3002,7 +3016,7 @@
       "downloadSize": "64,5 MB"
     }
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-25",
   "series": [
     {
       "id": "magyarorszag-tortenete",
