@@ -2829,6 +2829,17 @@
       "portalGlossary": true
     },
     {
+      "id": "atlasbig-terkepek-statisztikak",
+      "title": "AtlasBig – térképek, statisztikák és grafikonok",
+      "category": "foldrajz",
+      "description": "Interaktív térképek, rangsorok és adattáblázatok Magyarországról és a világról. Földrajzi, népességi, gazdasági és társadalmi adatok összehasonlítása.",
+      "url": "https://hu.atlasbig.com/",
+      "embed": false,
+      "kind": "Adatbázis",
+      "group": "Adatbázisok",
+      "source": "AtlasBig"
+    },
+    {
       "id": "metnet-magyarorszag-meteorologia",
       "title": "Magyarország meteorológiai adatai",
       "category": "foldrajz",
